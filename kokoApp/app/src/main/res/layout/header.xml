@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/blue3"
+    android:padding="15dp"
+    android:gravity="bottom"
+    android:layout_height="200dp">
+    
+    
+    
+    <ImageView
+        android:layout_width="100dp"
+        android:src="@drawable/dog_pc"
+        android:layout_height="100dp"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="@string/koko_up"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="36sp"
+        android:layout_height="wrap_content" />
+
+
+
+    
+
+</LinearLayout>
